@@ -17,3 +17,6 @@ notebooks as closely as possible without disclosing information that might be co
 To use this repo, clone it to your local machine (you'll need at least Python 3.8). Run 
 `pip install -r requirements.txt` from the base directory to install all the requirements, then run 
 `jupyter lab` to open up a JupyterLab environment where you can interact with the notebooks.
+
+## Current Notebooks
+* [analysis.ipynb](analysis.ipynb): Troubleshooting a machine running a black-box model whose calculation time has spiked
